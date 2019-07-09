@@ -6,4 +6,4 @@ elif (a<0) :
 elif (a==0) :
   print("zero")
 else :
-  print ("False")
+  print ("invalid input")
