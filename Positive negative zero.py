@@ -1,9 +1,9 @@
-a=input("INNPUT")
-if a>0 :
+a=int(input())
+if (a>0) :
   print("POSITIVE")
-if a<0 :
+elif (a<0) :
   print("NEGATIVE")
-if a==0 :
+elif (a==0) :
   print("zero")
 else :
   print ("False")
