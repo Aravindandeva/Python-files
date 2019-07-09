@@ -6,5 +6,5 @@ elif a%2==0 :
   print("Even")
 
   
-elif :
+else:
   print("Odd")
