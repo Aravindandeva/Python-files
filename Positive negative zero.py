@@ -1,9 +1,9 @@
 a=int(input())
 if (a>0) :
-  print("POSITIVE")
+  print("Positive")
 elif (a<0) :
-  print("NEGATIVE")
+  print("Negative")
 elif (a==0) :
-  print("zero")
+  print("Zero")
 else :
   print ("invalid input")
