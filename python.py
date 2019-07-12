@@ -1,2 +1,2 @@
-num=list(map(int,input()))
-print(max(num))
+xx =list(map(int,input()))
+print(max(xx))
