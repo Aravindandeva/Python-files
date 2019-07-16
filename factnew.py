@@ -1,9 +1,7 @@
 ino=int(input())
-
-
 def fact(ino):
   if ino==0:
-    print("1")
+    return 1
   else:
-    print(ino*fact(ino-1))
+    return(ino*fact(ino-1))
 print(fact(ino))
