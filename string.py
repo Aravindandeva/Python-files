@@ -1,2 +1,2 @@
-i=input()
-print(i[::-1])
+stringrev=input()
+print(stringrev[::-1])
