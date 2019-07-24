@@ -1,3 +1,3 @@
-y=int(input())
-u=map(int,input().split())
-print(*sorted(u))
+buiyrretddfhygh=int(input())
+nu=map(int,input().split())
+print(*sorted(nu))
