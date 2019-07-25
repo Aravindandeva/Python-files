@@ -3,4 +3,4 @@ count=0
 for i in u:
   if (i=='.'):
     count+=1
-print(count)
+print(count+1)
